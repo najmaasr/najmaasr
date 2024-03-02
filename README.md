@@ -34,11 +34,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihabdi&theme=discord" alt="najmaasr" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihabdi&show_icons=true&locale=en&layout=compact&theme=dark" alt="najmaasr" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihabdi&theme=dark&show_icons=true" alt="najmaasr" /></p>
-<p><a href="http://www.github.com/najmaasr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=najmaasr&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a></p>
-<p><img src="https://metrics.lecoq.io/fatihabdi?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	</p>
-  <br/>
-   <a href="https://github.com/najmaasr"><img alt="Fatih's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=najmaasr&custom_title=Najma%20Syarifa's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 <div align="center">
 </div>
 </div>
