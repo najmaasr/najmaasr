@@ -9,15 +9,16 @@
   <img align="left" alt="Najma's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/najmaasr/">
-  <img align="left" alt="Najma's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Najma's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" />
 </a>
 <br />
 </h1>
-
+<div>
 <p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
 <br/>
  <em><b>- Henry Ford</b></em>
 <br><br/>
+</div>
 <br>
 <h3>Languages and Tools:</h3>
 <p>
