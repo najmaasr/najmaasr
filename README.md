@@ -32,8 +32,8 @@
 <br>
 <div align="center">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihabdi&theme=discord" alt="najmaasr" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihabdi&show_icons=true&locale=en&layout=compact&theme=dark" alt="najmaasr" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihabdi&theme=dark&show_icons=true" alt="najmaasr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najmaasr&show_icons=true&locale=en&layout=compact&theme=dark" alt="najmaasr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=najmaasr&theme=dark&show_icons=true" alt="najmaasr" /></p>
 <div align="center">
 </div>
 </div>
